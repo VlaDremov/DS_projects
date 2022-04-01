@@ -58,8 +58,4 @@
 Разработка модели, предсказывающей коэффициент восстановления золота из золотосодержащей руды.
 
 ## Используемые библиотеки
-*pandas*
-*matplotlib*
-*numpy*
-*sklearn*
-*catboost*
+*pandas*, *matplotlib*, *numpy*, *sklearn*, *catboost*

@@ -38,10 +38,4 @@
 Обучить модель для определения рыночной стоимости автомобиля.
 
 ## Используемые библиотеки
-*pandas*
-*matplotlib*
-*numpy*
-*sklearn*
-*xgboost*
-*lightgbm*
-*catboost*
+*pandas*, *matplotlib*, *numpy*, *sklearn*, *xgboost*, *lightgbm*, *catboost*

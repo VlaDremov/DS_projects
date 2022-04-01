@@ -56,8 +56,5 @@
 
 
 ## Используемые библиотеки
-*pandas*
-*numpy*
-*scipy*
-*math*
+*pandas*, *numpy*, *scipy*, *math*
 

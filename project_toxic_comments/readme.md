@@ -14,11 +14,4 @@
 Ускорить модерацию комментариев в сообществе, автоматизировав оценку их токсичности. Обучить модель классифицировать комментарии на позитивные и негативные.
 
 ## Используемые библиотеки
-*pandas*
-*torch*
-*numpy*
-*sklearn*
-*lightgbm*
-*catboost*
-*tqdm*
-*transformers*
+*pandas*, *torch*, *numpy*, *sklearn*, *lightgbm*, *catboost*, *tqdm*, *transformers*

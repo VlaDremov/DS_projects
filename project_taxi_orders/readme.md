@@ -19,11 +19,4 @@
 На основании данных о заказах такси спрогнозировать количество заказов на следующий час.
 
 ## Используемые библиотеки
-*pandas*
-*matplotlib*
-*numpy*
-*statsmodels*
-*sklearn*
-*xgboost*
-*lightgbm*
-*catboost*
+*pandas*, *matplotlib*, *numpy*, *statsmodels*, *sklearn*, *xgboost*, *lightgbm*, *catboost*

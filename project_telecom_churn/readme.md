@@ -17,10 +17,4 @@
 На основании данных о клиентах и опциях, которые они подключили, определить, склонны ли они к отказу от услуг оператора.
 
 ## Используемые библиотеки
-*pandas*
-*matplotlib*
-*numpy*
-*sklearn*
-*xgboost*
-*lightgbm*	
-*catboost*
+*pandas*, *matplotlib*, *numpy*, *sklearn*, *xgboost*, *lightgbm*, *catboost*
